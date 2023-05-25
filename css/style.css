@@ -112,14 +112,10 @@ footer p{
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-   
     font-size: 20px;
 }
 
-footer i {
+footer a {
     margin-left: 5px;
+    color: #ffffffd4;
 }
-/* footer img{
-    padding: 2px 10px 0 ;
-    display: inline-block;
-} */
