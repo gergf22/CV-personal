@@ -119,3 +119,29 @@ footer a {
     margin-left: 5px;
     color: #ffffffd4;
 }
+
+/* Estilos "Sobre Mi.html" */
+
+.inicio {
+    background-color: #dedcdd;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 29px 21px;
+}
+
+.inicio a {
+    text-decoration: none;
+    color: black;
+}
+
+.inicio i {
+    padding-right: 5px;
+
+}
+
+
+.sobreMi {
+    text-align: justify;
+    margin: 75px 55px;
+}
+
